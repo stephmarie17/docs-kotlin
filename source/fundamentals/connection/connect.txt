@@ -36,6 +36,8 @@ All resource usage limits, such as max connections, apply to individual
 .. behavior of your ``MongoClient``, see the guide on
 .. :ref:`MongoClient Settings <specify-mongoclient-settings>`.
 
+FOO BAR
+
 .. tip::
 
    Always call ``MongoClient.close()`` to clean up resources when an
